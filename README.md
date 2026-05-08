@@ -33,19 +33,23 @@
 
 ---
 
-## 📊 Compact Analytics
-<div align="center">
-  <!-- Reduced height from 185 to 150 for a smaller footprint -->
-  <img src="https://github-readme-stats-prakarsh68.vercel.app/api?username=prakarsh68&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=F7D358&icon_color=F7D358&bg_color=0D1117" height="150" />
-  <img src="https://github-readme-stats-prakarsh68.vercel.app/api/top-langs/?username=prakarsh68&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=F7D358&bg_color=0D1117" height="150" />
-</div>
+## 📊 Analytics Dashboard
 
 <div align="center">
-  <!-- Reduced width for a more centered, royal look -->
-  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=prakarsh68&theme=tokyonight&hide_border=true&stroke=F7D358&ring=F7D358&fire=F7D358" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=prakarsh68&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakarsh68&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
----
+<br>
+
+<div align="center">
+
+<img width="85%" src="https://streak-stats.demolab.com?user=prakarsh68&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ## 🐍 Contribution Journey
 <div align="center">
@@ -64,6 +68,27 @@
 </div>
 
 ---
+
+## 🏆 Royal Focus Areas
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prakarsh68&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&column=3&title=Repositories,Commits,Experience" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20%26%20ML-F7D358?style=for-the-badge&logo=openai&logoColor=000000" />
+
+<img src="https://img.shields.io/badge/FULL%20STACK-4F8CFF?style=for-the-badge&logo=react&logoColor=white" />
+
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-A9B1D6?style=for-the-badge&logo=opencv&logoColor=white" />
+
+</div>
+
 
 ## 🌟 Crown Jewel Projects
 <div align="center">
