@@ -9,12 +9,10 @@
   <h1>Hi there! I'm Prakarsh Awasthi 👋</h1>
   <p><strong>AI/ML Specialist | Full Stack Architect | Computer Vision Enthusiast</strong></p>
   
-  <!-- PREMIUM TYPING SVG -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=4F8CFF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Crafting+Full-Stack+Solutions;Computer+Vision+Innovator;Turning+Ideas+into+Impactful+Tech" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=4F8CFF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Full+Stack+Development;Computer+Vision+Innovator;Turning+Ideas+into+Impactful+Tech" alt="Typing SVG" />
 
   <br>
 
-  <!-- SOCIAL BADGES -->
   <p>
     <a href="mailto:awasthiprakarsh06@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -22,7 +20,7 @@
     <a href="https://github.com/prakarsh68">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME_HERE"> <!-- !!! UPDATE THIS LINK !!! -->
+    <a href="https://linkedin.com">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
   </p>
@@ -31,87 +29,63 @@
 
 ---
 
-## 🚀 The Mission
+## 🚀 About Me
 
-I am a B.Tech Computer Science student at **SRM Institute of Science and Technology** with a drive to bridge the gap between complex AI models and user-centric applications. My expertise lies in deploying real-time **Computer Vision** systems and engineering robust **Full Stack** architectures.
+I am a B.Tech CSE student at **SRM Institute of Science and Technology** dedicated to bridging the gap between complex AI models and user-centric web applications.
 
-- 🔭 **Current Focus:** Enhancing **AgniShakti** for industrial fire safety deployment.
-- 🌱 **Learning:** Deep Reinforcement Learning and Advanced System Design.
-- 🏆 **Track Record:** 3-time National Hackathon winner focused on high-impact tech.
-- ⚡ **Fun Fact:** When not coding, I'm likely on a badminton court or refining UI/UX mockups.
+- 🔭 **Current Project:** Scaling **AgniShakti**, an AI-powered real-time fire detection system.
+- 🧠 **Expertise:** Deep Learning, Full Stack Engineering, and Computer Vision.
+- 🏆 **Hackathons:** 3-time National Winner with a focus on high-impact tech products.
+- ⚡ **Vibe:** Fueled by lo-fi beats, strong coffee, and clean code architecture.
 
 ---
 
-## 🛡️ Core Expertise
+## 🐍 Contribution Journey
 
-Using a curated stack of modern technologies to build intelligent and scalable systems.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prakarsh68/prakarsh68/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prakarsh68/prakarsh68/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prakarsh68/prakarsh68/output/github-contribution-grid-snake.svg" width="100%">
+</picture>
 
-### 🧠 Artificial Intelligence & Machine Learning
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&perline=10" alt="AI/ML Skills" />
-  </a>
-</p>
+---
 
-### 🌐 Full Stack Engineering
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nextjs,nodejs,express,mongodb,tailwind,html,css&perline=10" alt="Web Skills" />
-  </a>
-</p>
+## 📊 Analytics & Performance
 
-### ⚙️ Tools & DevOps
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux&perline=10" alt="Tools Skills" />
-  </a>
-</p>
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prakarsh68&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats Card" />
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakarsh68&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs Card" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Streak Card -->
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=prakarsh68&theme=tokyonight&hide_border=true" alt="Streak Card" />
+</div>
+
+---
+
+## 🛠️ Technical Arsenal
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,js,react,nodejs,express,mongodb,tailwind,docker,git,linux,vscode&perline=14" alt="Tech Stack" />
+</div>
 
 ---
 
 ## 🌟 Featured Innovations
 
-> [!TIP]
-> Click on the project name to explore the repository.
-
-| Project | Description | Key Tech |
+| Project | Description | Tech Stack |
 |:---|:---|:---|
-| [🔥 **AgniShakti**](https://github.com/prakarsh68/AgniShakti) | AI-based industrial fire detection system with real-time alerting. | `YOLOv8` `React` `FastAPI` |
-| [❤️ **Ascleon**](https://github.com/prakarsh68/Ascleon) | Advanced ML/CNN system for automated ECG arrhythmia detection. | `Deep Learning` `Python` `Streamlit` |
-| [🛡️ **Sentra**](https://github.com/prakarsh68/Sentra) | Centralized, real-time smart surveillance platform for unified monitoring. | `OpenCV` `Socket.io` `Node.js` |
-| [🎙️ **VoxSentinel**](https://github.com/prakarsh68/VoxSentinel) | AI-powered voice scam detection to identify fraudulent calls. | `NLP` `Librosa` `Express` |
+| 🔥 **AgniShakti** | Real-time industrial fire detection using AI. | `YOLOv8` `FastAPI` |
+| ❤️ **Ascleon** | AI ECG arrhythmia detection system. | `CNN` `Python` |
+| 🛡️ **Sentra** | Smart real-time surveillance platform. | `WebRTC` `Node.js` |
+| 🎙️ **VoxSentinel** | AI-powered voice scam detection system. | `NLP` `Express` |
 
 ---
-
-## 🏆 Achievements & Certifications
-
-*   🥈 **Runner Up (₹50,000 Award)** — *Code Kalari National Hackathon*
-*   🏆 **Best Team** — *National Level Hackathon, IFET College of Engineering*
-*   🚀 **6th Place** — *National Entrepreneurship Hackathon, IIT Guwahati*
-*   🎖️ **Top Academic Achiever (2024–2025)** — *SRMIST*
-*   📜 **IBM Certified Professional** — *Computer Vision & Image Processing*
-
----
-
-## 📊 Analytics & Insights
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prakarsh68&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Prakarsh's GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prakarsh68&theme=tokyonight&hide_border=true" alt="Prakarsh's GitHub Streak" />
-</div>
-
-<br>
-
-<!-- AESTHETIC REPLACEMENT FOR GRAPH: CONTRIBUTION SNAKE -->
-### 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/prakarsh68/prakarsh68@output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%" />
-</div>
-
----
-
-<br>
 
 <!-- FOOTER -->
 <div align="center">
@@ -119,7 +93,7 @@ Using a curated stack of modern technologies to build intelligent and scalable s
   
   <br><br>
   
-  <img src="https://komarev.com/ghpvc/?username=prakarsh68&label=Profile+Views&color=4F8CFF&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=prakarsh68&label=Profile+Views&color=4F8CFF&style=flat-square" alt="Views" />
   
   <br>
   
