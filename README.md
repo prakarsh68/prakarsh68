@@ -1,101 +1,96 @@
-<!-- HEADER START -->
+<!-- ROYAL HEADER START -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/prakarsh68/prakarsh68/main/Github_Banner.png" width="100%" alt="Prakarsh Awasthi Banner"/>
+  <img src="https://raw.githubusercontent.com/prakarsh68/prakarsh68/main/Github_Banner.png" width="100%" alt="Banner" style="border-radius: 10px;"/>
 </div>
 
 <br>
 
 <div align="center">
-  <h1>Hi there! I'm Prakarsh Awasthi 👋</h1>
-  <p><strong>AI/ML Specialist | Full Stack Architect | Computer Vision Enthusiast</strong></p>
+  <!-- Slower, Glowing Name Header (Duration increased to 5000) -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=700&size=38&duration=5000&pause=1000&color=F7D358&center=true&vCenter=true&width=700&lines=✧+PRAKARSH+AWASTHI+✧" alt="Name" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3000&color=4F8CFF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Systems;Full+Stack+Development;Computer+Vision+Innovator;Turning+Ideas+into+Impactful+Tech" alt="Typing SVG" />
+  <p align="center">
+    <img src="https://img.shields.io/badge/—%20AI%2FML%20SPECIALIST%20—-FFD700?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/—%20FULL%20STACK%20ARCHITECT%20—-4F8CFF?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/—%20COMPUTER%20VISION%20—-FFD700?style=for-the-badge&logoColor=white" />
+  </p>
+
+  <!-- Slower Subtitles -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=500&size=20&duration=5000&color=A9B1D6&center=true&vCenter=true&width=700&lines=Architecting+Intelligent+Solutions;Crafting+Scalable+Web+Experiences;Winner+of+National+Hackathons;Turning+Ideas+into+Impactful+Products" alt="Typing SVG" />
 
   <br>
 
   <p>
-    <a href="mailto:awasthiprakarsh06@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-    <a href="https://github.com/prakarsh68">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
-    <a href="https://linkedin.com">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
+    <a href="mailto:awasthiprakarsh06@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://github.com/prakarsh68"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   </p>
 </div>
-<!-- HEADER END -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header" width="100%" />
+</p>
 
 ---
 
-## 🚀 About Me
+## 📊 Compact Analytics
+<div align="center">
+  <!-- Reduced height from 185 to 150 for a smaller footprint -->
+  <img src="https://github-readme-stats-prakarsh68.vercel.app/api?username=prakarsh68&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&title_color=F7D358&icon_color=F7D358&bg_color=0D1117" height="150" />
+  <img src="https://github-readme-stats-prakarsh68.vercel.app/api/top-langs/?username=prakarsh68&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=F7D358&bg_color=0D1117" height="150" />
+</div>
 
-I am a B.Tech CSE student at **SRM Institute of Science and Technology** dedicated to bridging the gap between complex AI models and user-centric web applications.
-
-- 🔭 **Current Project:** Scaling **AgniShakti**, an AI-powered real-time fire detection system.
-- 🧠 **Expertise:** Deep Learning, Full Stack Engineering, and Computer Vision.
-- 🏆 **Hackathons:** 3-time National Winner with a focus on high-impact tech products.
-- ⚡ **Vibe:** Fueled by lo-fi beats, strong coffee, and clean code architecture.
+<div align="center">
+  <!-- Reduced width for a more centered, royal look -->
+  <img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=prakarsh68&theme=tokyonight&hide_border=true&stroke=F7D358&ring=F7D358&fire=F7D358" />
+</div>
 
 ---
 
 ## 🐍 Contribution Journey
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prakarsh68/prakarsh68/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prakarsh68/prakarsh68/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/prakarsh68/prakarsh68/output/github-contribution-grid-snake.svg" width="100%">
-</picture>
-
----
-
-## 📊 Analytics & Performance
-
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prakarsh68&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Stats Card" />
-  <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakarsh68&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs Card" />
-</div>
-
-<br>
-
-<div align="center">
-  <!-- Streak Card -->
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=prakarsh68&theme=tokyonight&hide_border=true" alt="Streak Card" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prakarsh68/prakarsh68/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prakarsh68/prakarsh68/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Animation" src="https://raw.githubusercontent.com/prakarsh68/prakarsh68/output/github-contribution-grid-snake.svg" width="90%">
+  </picture>
 </div>
 
 ---
 
 ## 🛠️ Technical Arsenal
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,js,react,nodejs,express,mongodb,tailwind,docker,git,linux,vscode&perline=14" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,js,react,nodejs,express,mongodb,tailwind,docker,git,linux,vscode&perline=14" />
 </div>
 
 ---
 
-## 🌟 Featured Innovations
+## 🌟 Crown Jewel Projects
+<div align="center">
 
-| Project | Description | Tech Stack |
-|:---|:---|:---|
-| 🔥 **AgniShakti** | Real-time industrial fire detection using AI. | `YOLOv8` `FastAPI` |
-| ❤️ **Ascleon** | AI ECG arrhythmia detection system. | `CNN` `Python` |
-| 🛡️ **Sentra** | Smart real-time surveillance platform. | `WebRTC` `Node.js` |
-| 🎙️ **VoxSentinel** | AI-powered voice scam detection system. | `NLP` `Express` |
+| Project | Focus | Technology |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/🔥%20AgniShakti-FFD700?style=flat-square" /> | Real-time Fire Safety | `YOLOv8` `FastAPI` |
+| <img src="https://img.shields.io/badge/❤️%20Ascleon-FF4444?style=flat-square" /> | Healthcare AI | `Deep Learning` `Python` |
+| <img src="https://img.shields.io/badge/🛡️%20Sentra-4F8CFF?style=flat-square" /> | Unified Surveillance | `React.js` `Firebase` |
+| <img src="https://img.shields.io/badge/🎙️%20VoxSentinel-A9B1D6?style=flat-square" /> | Voice Security | `NLP` `Librosa` |
+
+</div>
 
 ---
 
 <!-- FOOTER -->
 <div align="center">
-  <i>"कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥"</i>
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=footer" width="100%" />
+  
+  <p align="center">
+    <!-- Slow typing for the Shloka -->
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&size=20&duration=6000&color=F7D358&center=true&vCenter=true&width=700&lines=कर्मण्येवाधिकारस्ते+मा+फलेषु+कदाचन।+मा+कर्मफलहेतुर्भूर्मा+ते+सङ्गोऽस्त्वकर्मणि॥"/>
+  </p>
+  
+  <img src="https://komarev.com/ghpvc/?username=prakarsh68&label=Profile+Views&color=F7D358&style=flat-square" />
   
   <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=prakarsh68&label=Profile+Views&color=4F8CFF&style=flat-square" alt="Views" />
-  
-  <br>
-  
-  <sub>Built with ❤️ by Prakarsh Awasthi</sub>
+  <sub>Designed with Precision & ✨ Glow by <b>Prakarsh Awasthi</b></sub>
 </div>
